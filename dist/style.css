@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  margin: 0;
+  background-color: #1e90ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.container {
+  background-color:#5352ed;
+  box-shadow: 2px 2px 13px 10px rgba(191,223,224,.4);
+  
+}
